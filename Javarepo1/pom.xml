@@ -30,6 +30,7 @@
 	</dependencies>
 <!--Demo1-->
 <!--Demo2-->
+<!--Demo4-->
 	<build>
 		<plugins>
 			<plugin>
