@@ -9,4 +9,6 @@ jobs:
     steps:
     - name: checkout code
       uses: actions/checkout@v4
+    - name: build java packege
+      run: maven clean install -f Javarepo1/pom.xml
  
